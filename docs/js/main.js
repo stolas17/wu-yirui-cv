@@ -156,10 +156,10 @@
 
       'common.present': 'Present',
 
-      'func.informative': 'Information', 'func.informative2': 'Information', 'func.informative3': 'Information',
-      'func.expressive': 'Expression',
+      'func.informative': 'Informative', 'func.informative2': 'Informative', 'func.informative3': 'Informative',
+      'func.expressive': 'Expressive',
       'func.phatic': 'Phatic',
-      'func.appellative': 'Appellation',
+      'func.appellative': 'Appellative',
 
       'about.title': 'About',
       'about.p1': 'I’m Wu Yirui, an MA candidate in Translation and Language Technology at The Hong Kong Polytechnic University, with a BA in Foreign Languages and Literature from Beihang University (GPA 3.63/4). My experience spans foreign trade and language education: I worked as a foreign trade dispatcher, corresponding with captains and clients in English and turning 1,000+ vessel and cargo records into structured ledgers; I also interned at language-product teams including Unipus and Word Master, working on digital teaching resources, AI pronunciation-assessment beta testing, and exam content development.',
